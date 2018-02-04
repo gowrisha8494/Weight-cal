@@ -1,0 +1,17 @@
+
+.div1 {
+  background: salmon;
+  height: 300px;
+  width: 600px;
+  border-radius: 10px;
+  margin-left: 350px;
+}
+body {
+  background-image: url("weight.jpg");
+  background: mediumaquamarine;
+  background:linear-gradient(to right, #ff512f, #dd2476);
+  background-size: cover;
+  height: 500px;
+  border-radius: 10px;
+
+}
